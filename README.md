@@ -24,3 +24,9 @@ touch .commitlintrc.json
 # It creates a pre-commit script in .husky/ and updates the prepare script in package.json.
 npx husky init
 ```
+
+## Create hook
+Inside .husky create `commit-msg` file and put:
+```
+npx commitlint --edit "$1"
+```
