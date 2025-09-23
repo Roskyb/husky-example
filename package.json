@@ -1,0 +1,16 @@
+{
+  "name": "husky-example",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "husky",
+    "lint:commit": "commitlint --edit \"$1\""
+  },
+  "author": "Jorge",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "husky": "^9.1.7"
+  }
+}
