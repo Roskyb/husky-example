@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Roskyb/husky-example/compare/v1.0.0...v1.1.0) (2025-09-25)
+
+
+### Features
+
+* update readme with auto releases ([09be0e5](https://github.com/Roskyb/husky-example/commit/09be0e57438f0b830d43185d6a518f6a81f7f65a))
+
 ## 1.0.0 (2025-09-25)
 
 
