@@ -35,3 +35,5 @@ npx commitlint --edit "$1"
 Using release-please you can automate the release, make sure you enable actions to create pull request from Github Actions. Settings > Actions > General > [X] Allow GitHub Actions to create and approve pull requests
 
 Read limitatations at [https://github.com/googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+
+SUPER
