@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Roskyb/husky-example/compare/v1.1.0...v2.0.0) (2025-09-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* super breaking change in readme
+
+### Features
+
+* super breaking change in readme ([29f659e](https://github.com/Roskyb/husky-example/commit/29f659e6d84d1987c2f4e99fe1dcf9baf51af0b8))
+
 ## [1.1.0](https://github.com/Roskyb/husky-example/compare/v1.0.0...v1.1.0) (2025-09-25)
 
 
